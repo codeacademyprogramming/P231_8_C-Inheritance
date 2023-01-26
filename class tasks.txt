@@ -1,0 +1,28 @@
+
+Task 1
+------------------------------------------------
+Bicycle class
+ - Brand
+ - Model
+ - Millage
+ - Drive() - parametr olaraq nece km 
+        suruleceyi daxil edilir
+
+ ------------------------------------------------
+
+Task 2
+---------------------------------------------------
+
+Product
+ - Name
+ - Price
+ - ShowInfo()
+
+Notebook:Product
+ - RAM
+ - Storage
+
+Phone:Product
+ - Camera
+
+------------------------------------------------------
